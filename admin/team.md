@@ -1,5 +1,5 @@
 # Team Dots and Crosses
-<img src="branding/logo.svg" alt="logo" style="object-fit: cover; border-radius: 50%; width: 25px; height 25px; float: left">
+![logo](\branding\logo.svg)
 
 ## Values
 
@@ -40,7 +40,9 @@ We value people, first and foremost, and strive to understand the people involve
 
 #### Dhanvi Desu
 
-<img src="branding/dhanvi.jpg" alt="Allison Chan" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
+<img src="branding/dhanvi.jpg" alt="Dhanvi Desu" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
+
+Hey, I'm Dhanvi and I am a second year computer science student in Sixth College! I like guitar, sports, and other fun things!
 
 #### Garrett Dungca
 
