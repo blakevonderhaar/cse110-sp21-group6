@@ -30,9 +30,9 @@ We value people, first and foremost, and strive to understand the people involve
 <img src="branding/blake.PNG" alt="Blake Vonder Haar" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
 
-#### [Haily Duong](https://h2duong.github.io/cse110hd/)
+#### [Hailey Duong](https://h2duong.github.io/cse110hd/)
 
-
+Hello! I'm Hailey, my pronouns are they/them and she/her. I’m a second year computer science major from Marshall College, and I'm almost minoring in ICAM and AAPI Studies. I live listening to music and watching cartoons! 
 
 #### [Sara Doron](https://saradoron.github.io/lab-week-1/)
 
