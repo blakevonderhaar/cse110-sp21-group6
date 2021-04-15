@@ -23,7 +23,7 @@ We value people, first and foremost, and strive to understand the people involve
 
 #### [Finn Reid](https://stayingqold.github.io/cse110-lab1/)
 
-
+<img src="branding/finn.JPG" alt="Finn Reid" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
 #### [Blake Vonder-Haar](https://blakevonderhaar.github.io/CSE110/)
 
