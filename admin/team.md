@@ -1,5 +1,5 @@
 # Team Dots and Crosses
-![logo](\branding\logo.svg)
+<img src="branding/logo.svg" alt="logo" style="object-fit: cover; border-radius: 50%; width: 25px; height 25px; float: left">
 
 ## Values
 
