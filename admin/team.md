@@ -38,7 +38,7 @@ We value people, first and foremost, and strive to understand the people involve
 
 
 
-#### Dhanvi Desu
+#### [Dhanvi Desu](https://dhanvidesu.github.io/lab1/)
 
 <img src="branding/dhanvi.jpg" alt="Dhanvi Desu" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
