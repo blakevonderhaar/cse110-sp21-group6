@@ -34,9 +34,11 @@ We value people, first and foremost, and strive to understand the people involve
 
 
 
-#### [Sara Doron](https://github.com/saradoron/lab-week-1)
+#### [Sara Doron](https://saradoron.github.io/lab-week-1/)
 
+<img src="branding/sara.png" alt="Sara Doron" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
+Hi I'm Sara! I'm a second year Computer Science major in Muir College. I love ballet, cooking and taveling. 
 
 #### [Dhanvi Desu](https://dhanvidesu.github.io/lab1/)
 
