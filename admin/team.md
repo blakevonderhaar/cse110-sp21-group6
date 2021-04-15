@@ -1,5 +1,6 @@
 # Team Dots and Crosses
-(insert brand image here)
+![logo](\branding\logo.svg)
+
 ## Values
 
 We value the growth mindset and seeing everything as an opportunity to grow. Making mistakes or doing things wrong the first time is just information that we can use to improve and does not say anything about our self-worth
@@ -8,7 +9,7 @@ We value being proactive, communicative, and reaching out. We understand that we
 
 We know that things will be difficult and messy sometimes, but that is also part of the process, and an opportunity to improve.
 
-We recognize that we can do our best work when we are physically and mentally well and we will do our best to take care of ourselves, so that we can handle the responsiblities that we've committed to.
+We recognize that we can do our best work when we are physically and mentally well and we will do our best to take care of ourselves, so that we can handle the responsibilities that we've committed to.
 
 We acknowledge that our differences make our team stronger and that we have a lot to learn from each other if we keep an open mind. We also have a lot to teach and share to each other and we do not see needing help as a sign of weakness.
 
