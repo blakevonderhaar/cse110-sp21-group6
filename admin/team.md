@@ -23,7 +23,7 @@ We value people, first and foremost, and strive to understand the people involve
 
 #### [Finn Reid](https://stayingqold.github.io/cse110-lab1/)
 
-<img src="branding/finn.JPG" alt="Finn Reid" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
+
 
 #### [Blake Vonder-Haar](https://blakevonderhaar.github.io/CSE110/)
 
@@ -34,7 +34,7 @@ We value people, first and foremost, and strive to understand the people involve
 
 <img src="branding/hailey.jpg" alt="Hailey Duong" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
-Hello! I'm Hailey, my pronouns are they/them and she/her. I’m a second year computer science major from Marshall College, and I'm almost minoring in ICAM and AAPI Studies. I live listening to music and watching cartoons! 
+Hello! I'm Hailey, my pronouns are they/them and she/her. I’m a second year computer science major from Marshall College, and I'm almost minoring in ICAM and AAPI Studies. I love listening to music and watching cartoons! 
 
 #### [Sara Doron](https://saradoron.github.io/lab-week-1/)
 
