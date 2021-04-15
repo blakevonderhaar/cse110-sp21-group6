@@ -24,8 +24,9 @@ We value people, first and foremost, and strive to understand the people involve
 
 
 
-#### [Blake Vonder-Harr](https://blakevonderhaar.github.io/CSE110/)
+#### [Blake Vonder-Haar](https://blakevonderhaar.github.io/CSE110/)
 
+<img src="branding/blake.PNG" alt="Blake Vonder Haar" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
 
 
 #### [Haily Duong](https://h2duong.github.io/cse110hd/)
