@@ -32,6 +32,8 @@ We value people, first and foremost, and strive to understand the people involve
 
 #### [Hailey Duong](https://h2duong.github.io/cse110hd/)
 
+<img src="branding/hailey.jpg" alt="Hailey Duong" style="object-fit: cover; border-radius: 50%; width: 50px; height 50px; float: left;">
+
 Hello! I'm Hailey, my pronouns are they/them and she/her. I’m a second year computer science major from Marshall College, and I'm almost minoring in ICAM and AAPI Studies. I live listening to music and watching cartoons! 
 
 #### [Sara Doron](https://saradoron.github.io/lab-week-1/)
