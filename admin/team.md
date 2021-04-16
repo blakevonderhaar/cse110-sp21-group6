@@ -36,9 +36,7 @@ Hello there. I'm Annie, a second year Computer Science major from Sixth College.
 
 <img src="branding/blake.PNG" alt="Blake Vonder Haar" style="object-fit: cover; object-position: top center; border-radius: 50%; width: 50px; height: 50px; float: left;">
 
-> I was born for politics. I have great hair and I love lying.
->
-> — ScatterPatter's Incorrect Quotes Generator
+Hi I'm Blake and a I'm a third year Math - Computer Science major in Warren College. I love to surf!
 
 
 #### [Hailey Duong](https://h2duong.github.io/cse110hd/)
