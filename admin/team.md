@@ -41,11 +41,12 @@ Hello there. I'm Annie, a second year Computer Science major from Sixth College.
 > — ScatterPatter's Incorrect Quotes Generator
 
 
-#### [Haily Duong](https://h2duong.github.io/cse110hd/)
+#### [Hailey Duong](https://h2duong.github.io/cse110hd/)
 
-> Not trying to brag or anything, but I can wake up without an alarm clock now simply due to my crippling and overwhelming anxiety, so...
->
-> — ScatterPatter's Incorrect Quotes Generator
+<img src="branding/hailey.jpg" alt="Hailey Duong" style="object-fit: cover; border-radius: 50%; width: 50px; height: 50px; float: left;">
+
+Hello! I'm Hailey, my pronouns are they/them and she/her. I’m a second year computer science major from Marshall College, and I'm almost minoring in ICAM and AAPI Studies. I love listening to music and watching cartoons! 
+
 
 #### [Sara Doron](https://saradoron.github.io/lab-week-1/)
 
